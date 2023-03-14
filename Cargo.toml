@@ -8,3 +8,6 @@ edition = "2021"
 name = "z80"
 
 [dependencies]
+
+[dev-dependencies]
+rstest = "~0.16.0"
